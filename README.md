@@ -50,4 +50,4 @@ This project demonstrates how machine learning can be applied to a real-world re
 
 ### Internship
 
-**CodeAlpha Data Science Internship — Task 3**
+**CodeAlpha Data Science Internship-Task 3**
