@@ -1,6 +1,6 @@
 # Car Price Prediction 🚗
 
-## CodeAlpha Data Science Internship — Task 3
+## CodeAlpha Data Science Internship-Task 3
 
 ### Project Overview
 
